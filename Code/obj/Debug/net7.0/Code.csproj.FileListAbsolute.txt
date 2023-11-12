@@ -1,0 +1,14 @@
+C:\Users\Mari\Documents\DIO\Codes\desafio-tdd-testes-unitarios\Code\bin\Debug\net7.0\Code.exe
+C:\Users\Mari\Documents\DIO\Codes\desafio-tdd-testes-unitarios\Code\bin\Debug\net7.0\Code.deps.json
+C:\Users\Mari\Documents\DIO\Codes\desafio-tdd-testes-unitarios\Code\bin\Debug\net7.0\Code.runtimeconfig.json
+C:\Users\Mari\Documents\DIO\Codes\desafio-tdd-testes-unitarios\Code\bin\Debug\net7.0\Code.dll
+C:\Users\Mari\Documents\DIO\Codes\desafio-tdd-testes-unitarios\Code\bin\Debug\net7.0\Code.pdb
+C:\Users\Mari\Documents\DIO\Codes\desafio-tdd-testes-unitarios\Code\obj\Debug\net7.0\Code.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mari\Documents\DIO\Codes\desafio-tdd-testes-unitarios\Code\obj\Debug\net7.0\Code.AssemblyInfoInputs.cache
+C:\Users\Mari\Documents\DIO\Codes\desafio-tdd-testes-unitarios\Code\obj\Debug\net7.0\Code.AssemblyInfo.cs
+C:\Users\Mari\Documents\DIO\Codes\desafio-tdd-testes-unitarios\Code\obj\Debug\net7.0\Code.csproj.CoreCompileInputs.cache
+C:\Users\Mari\Documents\DIO\Codes\desafio-tdd-testes-unitarios\Code\obj\Debug\net7.0\Code.dll
+C:\Users\Mari\Documents\DIO\Codes\desafio-tdd-testes-unitarios\Code\obj\Debug\net7.0\refint\Code.dll
+C:\Users\Mari\Documents\DIO\Codes\desafio-tdd-testes-unitarios\Code\obj\Debug\net7.0\Code.pdb
+C:\Users\Mari\Documents\DIO\Codes\desafio-tdd-testes-unitarios\Code\obj\Debug\net7.0\Code.genruntimeconfig.cache
+C:\Users\Mari\Documents\DIO\Codes\desafio-tdd-testes-unitarios\Code\obj\Debug\net7.0\ref\Code.dll
